@@ -28,7 +28,7 @@ export function HeroSection() {
             </h1>
             <p className="mt-4 max-w-lg text-pretty text-base leading-relaxed text-muted-foreground sm:mt-5 sm:text-lg">
               Tecnología digital avanzada, cirugía guiada y tasas de éxito
-              superiores al 95%. Implantes enfocados a durar toda la vida.
+              superiores al 97%. Implantes enfocados a durar toda la vida.
             </p>
 
             <ul className="mt-5 flex flex-col gap-2 sm:mt-6 sm:gap-3">
@@ -43,7 +43,7 @@ export function HeroSection() {
               ))}
             </ul>
 
-            <div className="mt-6 flex flex-col gap-3 sm:mt-8 sm:flex-row sm:items-center">
+            <div className="mt-6 sm:mt-8">
               <Button
                 asChild
                 size="lg"
@@ -52,16 +52,6 @@ export function HeroSection() {
                 <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
                   <WhatsappIcon />
                   Agendar valoración por WhatsApp
-                </a>
-              </Button>
-              <Button
-                asChild
-                variant="outline"
-                size="lg"
-                className="border-border text-foreground hover:bg-secondary px-6 text-sm sm:px-8 sm:text-base"
-              >
-                <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
-                  Quiero información ahora
                 </a>
               </Button>
             </div>
@@ -73,7 +63,7 @@ export function HeroSection() {
           <div className="relative mx-auto max-w-md lg:max-w-none">
             <div className="relative overflow-hidden rounded-xl shadow-2xl shadow-primary/10 sm:rounded-2xl">
               <Image
-                src="/images/before-after-real.png"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2415%20%281%29.PNG-XaVPrssE2KesTT1yPPtqvkcNxlZn6u.png"
                 alt="Caso real de implantes dentales: antes y después mostrando la transformación completa de la sonrisa"
                 width={700}
                 height={700}
@@ -84,7 +74,7 @@ export function HeroSection() {
             <div className="absolute -bottom-3 left-2 rounded-lg border border-border bg-card p-3 shadow-lg sm:-bottom-4 sm:-left-4 sm:rounded-xl sm:p-4 lg:-bottom-6 lg:-left-6">
               <div className="flex items-center gap-2 sm:gap-3">
                 <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 sm:h-12 sm:w-12">
-                  <span className="text-base font-bold text-primary sm:text-xl">95%</span>
+                  <span className="text-base font-bold text-primary sm:text-xl">97%</span>
                 </div>
                 <div>
                   <p className="text-xs font-semibold text-foreground sm:text-sm">Tasa de Éxito</p>

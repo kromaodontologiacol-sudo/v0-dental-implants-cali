@@ -1,6 +1,5 @@
 "use client"
 
-import Image from "next/image"
 import { useState } from "react"
 
 interface WatermarkedImageProps {
@@ -18,11 +17,7 @@ export function WatermarkedImage({
   src,
   alt,
   fill,
-  width,
-  height,
   className,
-  sizes,
-  priority,
 }: WatermarkedImageProps) {
   const [hasError, setHasError] = useState(false)
 
@@ -36,28 +31,13 @@ export function WatermarkedImage({
 
   return (
     <div className="relative h-full w-full">
-      {fill ? (
-        <Image
-          src={src}
-          alt={alt}
-          fill
-          className={className}
-          sizes={sizes}
-          priority={priority}
-          onError={() => setHasError(true)}
-        />
-      ) : (
-        <Image
-          src={src}
-          alt={alt}
-          width={width}
-          height={height}
-          className={className}
-          sizes={sizes}
-          priority={priority}
-          onError={() => setHasError(true)}
-        />
-      )}
+      <img
+        src={src}
+        alt={alt}
+        className={fill ? `absolute inset-0 h-full w-full object-cover ${className || ""}` : className}
+        onError={() => setHasError(true)}
+        loading="lazy"
+      />
       {/* Watermark overlay */}
       <div className="pointer-events-none absolute inset-0 flex items-end justify-end p-3">
         <span className="rounded bg-foreground/60 px-2 py-1 text-xs font-semibold tracking-wide text-background backdrop-blur-sm">

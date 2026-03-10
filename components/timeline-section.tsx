@@ -9,7 +9,7 @@ const steps = [
     title: "Valoración clínica y escaneo digital",
     description:
       "Realizamos un examen completo con escáner intraoral 3D de última generación. Sin moldes tradicionales incómodos, obtenemos un modelo digital preciso de tu boca en minutos.",
-    image: "/images/intraoral-scanner.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Escaner-intraoral-eJ2brpH84QX6j1D7kOz4FWNcjwxDN0.jpg",
     imageAlt: "Escáner intraoral 3D para diagnóstico dental digital",
   },
   {
@@ -17,7 +17,7 @@ const steps = [
     title: "Planificación 3D y tomografía",
     description:
       "Con tomografía computarizada 3D planificamos la posición exacta de cada implante. Visualizamos nervios, hueso y estructuras anatómicas para una cirugía segura y predecible.",
-    image: "/images/ct-scan-3d.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/images-704IdRuoV6VlrTvbEYmpAvLTllcReF.jpg",
     imageAlt: "Tomografía 3D para planificación de implantes dentales",
   },
   {
@@ -25,7 +25,7 @@ const steps = [
     title: "Cirugía guiada con precisión",
     description:
       "Utilizamos guías quirúrgicas impresas en 3D que garantizan la colocación exacta del implante. Procedimiento mínimamente invasivo con recuperación más rápida.",
-    image: "/images/surgical-guide.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/images%20%281%29-qvTRtvqKzdrxmIRVKx91gj5VwiObI8.jpg",
     imageAlt: "Guía quirúrgica para colocación precisa de implantes",
   },
   {
@@ -33,7 +33,7 @@ const steps = [
     title: "Implantes de alta calidad",
     description:
       "Trabajamos con implantes Neodent, marca de reconocimiento mundial. Fabricados en titanio de grado médico, diseñados para una osteointegración óptima y durabilidad de por vida.",
-    image: "/images/neodent-implants.png",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Neodent_Portfolio_Key_Visual-r4r5dOtWdfipPRKdpdJ1AcJQ2HCP0Z.png",
     imageAlt: "Implantes dentales Neodent de titanio de alta calidad",
   },
   {
@@ -41,7 +41,7 @@ const steps = [
     title: "Corona definitiva natural",
     description:
       "Tras la osteointegración, colocamos tu corona personalizada. Un diente nuevo que se ve, se siente y funciona exactamente como uno natural.",
-    image: "/images/crown-result.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Imagen%20de%20WhatsApp%202025-11-01%20a%20las%2012.31.22_8caccb44-R1hkDp25J3kv7leXp0qG4yZNdTkiEu.jpg",
     imageAlt: "Corona dental sobre implante con resultado natural",
   },
 ]

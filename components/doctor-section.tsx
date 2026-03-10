@@ -31,7 +31,7 @@ export function DoctorSection() {
           <div className="relative mx-auto max-w-md lg:max-w-none">
             <div className="relative overflow-hidden rounded-2xl shadow-2xl shadow-primary/10">
               <Image
-                src="/images/doctor-weider-procedure.jpg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC06502-OYkdFX5qHBjWGJZgPOFQ7eFliJ85R4.jpg"
                 alt="Doctor Weider Gutierrez realizando un procedimiento de implantes dentales en su consultorio en Cali"
                 width={600}
                 height={800}

@@ -5,40 +5,28 @@ const WHATSAPP_URL = "https://wa.me/573235944931"
 
 const cases = [
   {
-    src: "/images/doctor-weider-procedure.jpg",
+    src: "/images/cirugia-especializada.jpg",
     alt: "Doctor Weider realizando procedimiento de implantes dentales en Cali",
     label: "Cirugía especializada",
     description: "El Doctor Weider realizando un procedimiento de implantes con técnicas mínimamente invasivas.",
   },
   {
-    src: "/images/prosthesis-black.jpg",
+    src: "/images/protesis-implantes.jpg",
     alt: "Prótesis dental sobre implantes vista superior mostrando los conectores de titanio",
     label: "Prótesis sobre implantes",
     description: "Prótesis fija diseñada con encía artificial de alta estética y naturalidad.",
   },
   {
-    src: "/images/prosthesis-hands.jpg",
-    alt: "Prótesis dental sobre implantes sostenida por el especialista, mostrando la calidad del trabajo",
-    label: "Control de calidad",
-    description: "Verificación minuciosa de la prótesis antes de su instalación definitiva.",
-  },
-  {
-    src: "/images/result-color-match.jpg",
+    src: "/images/ajuste-color.jpg",
     alt: "Comprobación del color de la corona dental con guía de tonalidades",
     label: "Ajuste de color",
     description: "Selección precisa del tono para un resultado completamente natural.",
   },
   {
-    src: "/images/result-smile.jpg",
-    alt: "Resultado final: sonrisa completa con coronas sobre implantes de apariencia completamente natural",
-    label: "Resultado final",
-    description: "Sonrisa completamente restaurada con implantes que lucen y funcionan como dientes naturales.",
-  },
-  {
-    src: "/images/before-after-real.png",
-    alt: "Caso antes y después de implantes dentales mostrando la transformación completa",
-    label: "Antes y después",
-    description: "Transformación real de un paciente con implantes dentales del Doctor Weider.",
+    src: "/images/sonrisa-natural.jpg",
+    alt: "Paciente feliz mostrando su sonrisa natural después del tratamiento con implantes dentales",
+    label: "Sonrisa natural",
+    description: "Resultado final con una sonrisa radiante y completamente natural.",
   },
 ]
 
