@@ -5,25 +5,25 @@ const WHATSAPP_URL = "https://wa.me/573235944931"
 
 const cases = [
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC06502-OYkdFX5qHBjWGJZgPOFQ7eFliJ85R4.jpg",
+    src: "/images/cirugia-especializada.jpg",
     alt: "Doctor Weider realizando procedimiento de implantes dentales en Cali",
     label: "Cirugía especializada",
     description: "El Doctor Weider realizando un procedimiento de implantes con técnicas mínimamente invasivas.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2983.JPG-RBOxDjB3X1QU7ROXv4So2JkEpcQY5q.jpeg",
+    src: "/images/protesis-implantes.jpg",
     alt: "Prótesis dental sobre implantes vista superior mostrando los conectores de titanio",
     label: "Prótesis sobre implantes",
     description: "Prótesis fija diseñada con encía artificial de alta estética y naturalidad.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2993.JPG-qMh1Umyr2fGKcSulgAM2G7b9KMQMCO.jpeg",
+    src: "/images/ajuste-color.jpg",
     alt: "Comprobación del color de la corona dental con guía de tonalidades",
     label: "Ajuste de color",
     description: "Selección precisa del tono para un resultado completamente natural.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3008.JPG-XxfLbnIh8cNpi91aCRFAspRReLHMNs.jpeg",
+    src: "/images/sonrisa-natural.jpg",
     alt: "Paciente feliz mostrando su sonrisa natural después del tratamiento con implantes dentales",
     label: "Sonrisa natural",
     description: "Resultado final con una sonrisa radiante y completamente natural.",
