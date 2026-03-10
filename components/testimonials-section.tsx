@@ -32,10 +32,10 @@ export function TestimonialsSection() {
         <div className="mx-auto max-w-3xl text-center">
           <div className="mb-4 flex items-center justify-center gap-2">
             <Image
-              src="/images/google-reviews.png"
-              alt="Reseñas de Google del Dr. Weider Gutierrez Odontologo - 5.0 estrellas"
-              width={400}
-              height={200}
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-tu6lIydiYFrLGmKVOyYtYRfBxmiMiG.png"
+              alt="Reseñas de Google del Dr. Weider Gutierrez Odontologo - 5.0 estrellas con 22 opiniones"
+              width={500}
+              height={300}
               className="rounded-lg"
             />
           </div>

@@ -5,25 +5,25 @@ const WHATSAPP_URL = "https://wa.me/573235944931"
 
 const cases = [
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC06502-iplTenJHsABlIUBS1R8jfsg5HTQ6Yu.jpg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC06501-0XaMutcvAmlczHFUNRAG3W7JxKUKmP.jpg",
     alt: "Doctor Weider realizando procedimiento de implantes dentales en Cali",
     label: "Cirugía especializada",
     description: "El Doctor Weider realizando un procedimiento de implantes con técnicas mínimamente invasivas.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2983.JPG-30Bv7ujRJfhOttWdGQw9QAjYDCw3yk.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2984.JPG-bOThHInVDGJyFIMbye1MV492iu5PZi.jpeg",
     alt: "Prótesis dental sobre implantes vista superior mostrando los conectores de titanio",
     label: "Prótesis sobre implantes",
     description: "Prótesis fija diseñada con encía artificial de alta estética y naturalidad.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2993.JPG-t9JEqbEClwU4KHzkLQ2PSPp566gGEj.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2993.JPG-MiThe4bm0Z5FO0YATisstMKRYeH19t.jpeg",
     alt: "Comprobación del color de la corona dental con guía de tonalidades",
     label: "Ajuste de color",
     description: "Selección precisa del tono para un resultado completamente natural.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3015.JPG-fRkssTcejPMvsdN9PBpwSUpUH7hIZb.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3008.JPG-fWv6ep9SKz51zSNqDaRIbh7KllSfmz.jpeg",
     alt: "Sonrisa natural y completa después del tratamiento con implantes dentales",
     label: "Sonrisa natural",
     description: "Resultado final con una sonrisa radiante y completamente natural.",
