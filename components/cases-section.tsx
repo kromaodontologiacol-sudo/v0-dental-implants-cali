@@ -23,8 +23,8 @@ const cases = [
     description: "Selección precisa del tono para un resultado completamente natural.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3015.JPG-fRkssTcejPMvsdN9PBpwSUpUH7hIZb.jpeg",
-    alt: "Sonrisa natural y completa después del tratamiento con implantes dentales",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3008.JPG-XxfLbnIh8cNpi91aCRFAspRReLHMNs.jpeg",
+    alt: "Paciente feliz mostrando su sonrisa natural después del tratamiento con implantes dentales",
     label: "Sonrisa natural",
     description: "Resultado final con una sonrisa radiante y completamente natural.",
   },
