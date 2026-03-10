@@ -5,40 +5,28 @@ const WHATSAPP_URL = "https://wa.me/573235944931"
 
 const cases = [
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC06502-OYkdFX5qHBjWGJZgPOFQ7eFliJ85R4.jpg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC06502-iplTenJHsABlIUBS1R8jfsg5HTQ6Yu.jpg",
     alt: "Doctor Weider realizando procedimiento de implantes dentales en Cali",
     label: "Cirugía especializada",
     description: "El Doctor Weider realizando un procedimiento de implantes con técnicas mínimamente invasivas.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2983.JPG-RBOxDjB3X1QU7ROXv4So2JkEpcQY5q.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2983.JPG-30Bv7ujRJfhOttWdGQw9QAjYDCw3yk.jpeg",
     alt: "Prótesis dental sobre implantes vista superior mostrando los conectores de titanio",
     label: "Prótesis sobre implantes",
     description: "Prótesis fija diseñada con encía artificial de alta estética y naturalidad.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2993.JPG-qMh1Umyr2fGKcSulgAM2G7b9KMQMCO.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2993.JPG-t9JEqbEClwU4KHzkLQ2PSPp566gGEj.jpeg",
     alt: "Comprobación del color de la corona dental con guía de tonalidades",
     label: "Ajuste de color",
     description: "Selección precisa del tono para un resultado completamente natural.",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3004.JPG-8Xjp8oWFEbLyjNUvaOBh70pBfEgrJz.jpeg",
-    alt: "Resultado final: sonrisa completa con coronas sobre implantes de apariencia completamente natural",
-    label: "Resultado final",
-    description: "Sonrisa completamente restaurada con implantes que lucen y funcionan como dientes naturales.",
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Imagen%20de%20WhatsApp%202025-11-01%20a%20las%2012.31.22_8caccb44-R1hkDp25J3kv7leXp0qG4yZNdTkiEu.jpg",
-    alt: "Caso antes y después de implantes dentales mostrando la colocación y resultado",
-    label: "Implante y corona",
-    description: "Proceso completo desde la colocación del implante hasta la corona final.",
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2415%20%281%29.PNG-XaVPrssE2KesTT1yPPtqvkcNxlZn6u.png",
-    alt: "Caso antes y después de implantes dentales mostrando la transformación completa",
-    label: "Antes y después",
-    description: "Transformación real de un paciente con implantes dentales del Doctor Weider.",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3015.JPG-fRkssTcejPMvsdN9PBpwSUpUH7hIZb.jpeg",
+    alt: "Sonrisa natural y completa después del tratamiento con implantes dentales",
+    label: "Sonrisa natural",
+    description: "Resultado final con una sonrisa radiante y completamente natural.",
   },
 ]
 

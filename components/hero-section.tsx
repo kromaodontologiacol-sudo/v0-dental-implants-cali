@@ -43,7 +43,7 @@ export function HeroSection() {
               ))}
             </ul>
 
-            <div className="mt-6 flex flex-col gap-3 sm:mt-8 sm:flex-row sm:items-center">
+            <div className="mt-6 sm:mt-8">
               <Button
                 asChild
                 size="lg"
@@ -52,16 +52,6 @@ export function HeroSection() {
                 <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
                   <WhatsappIcon />
                   Agendar valoración por WhatsApp
-                </a>
-              </Button>
-              <Button
-                asChild
-                variant="outline"
-                size="lg"
-                className="border-border text-foreground hover:bg-secondary px-6 text-sm sm:px-8 sm:text-base"
-              >
-                <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
-                  Quiero información ahora
                 </a>
               </Button>
             </div>
