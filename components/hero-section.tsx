@@ -73,7 +73,7 @@ export function HeroSection() {
           <div className="relative mx-auto max-w-md lg:max-w-none">
             <div className="relative overflow-hidden rounded-xl shadow-2xl shadow-primary/10 sm:rounded-2xl">
               <Image
-                src="/images/before-after-real.png"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2415%20%281%29.PNG-XaVPrssE2KesTT1yPPtqvkcNxlZn6u.png"
                 alt="Caso real de implantes dentales: antes y después mostrando la transformación completa de la sonrisa"
                 width={700}
                 height={700}
