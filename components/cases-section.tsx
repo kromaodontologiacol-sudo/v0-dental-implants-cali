@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button"
 import { WatermarkedImage } from "@/components/watermarked-image"
 
-const WHATSAPP_URL = "https://wa.me/573235944931"
+const WHATSAPP_URL = "https://wa.me/573225213238"
 
 const cases = [
   {

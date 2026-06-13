@@ -9,7 +9,7 @@ import {
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-const WHATSAPP_URL = "https://wa.me/573235944931"
+const WHATSAPP_URL = "https://wa.me/573225213238"
 
 const features = [
   { icon: Award, text: "Especialistas en Implantología Oral" },

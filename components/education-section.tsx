@@ -1,7 +1,7 @@
 import { ShieldCheck, Sparkles, Timer, Bone } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-const WHATSAPP_URL = "https://wa.me/573235944931"
+const WHATSAPP_URL = "https://wa.me/573225213238"
 
 const benefits = [
   {

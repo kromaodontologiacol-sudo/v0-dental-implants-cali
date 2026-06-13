@@ -15,7 +15,7 @@ export function ContactFormSection() {
       `Hola, soy ${name}. Mi teléfono es ${phone}. Estoy interesado/a en una valoración de implantes dentales.`
     )
     window.open(
-      `https://wa.me/573235944931?text=${message}`,
+      `https://wa.me/573225213238?text=${message}`,
       "_blank",
       "noopener,noreferrer"
     )

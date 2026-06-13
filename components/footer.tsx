@@ -31,11 +31,11 @@ export function Footer() {
               <span>Cali, Valle del Cauca - Colombia</span>
             </div>
             <a
-              href="tel:+573235944931"
+              href="tel:+573225213238"
               className="flex items-center gap-3 text-sm text-background/60 transition-colors hover:text-background"
             >
               <Phone className="h-4 w-4 shrink-0" />
-              <span>WhatsApp: 323 594 4931</span>
+              <span>WhatsApp: 322 521 3238</span>
             </a>
             <div className="flex items-center gap-3 text-sm text-background/60">
               <Clock className="h-4 w-4 shrink-0" />
