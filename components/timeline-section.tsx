@@ -1,7 +1,7 @@
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
 
-const WHATSAPP_URL = "https://wa.me/573225213238"
+const WHATSAPP_URL = "https://wa.me/573181898143"
 
 const steps = [
   {
@@ -117,7 +117,7 @@ export function TimelineSection() {
             </a>
           </Button>
           <p className="mt-2 text-xs text-muted-foreground">
-            WhatsApp 322 521 3238
+            WhatsApp 318 189 8143
           </p>
         </div>
       </div>

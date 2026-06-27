@@ -1,6 +1,6 @@
 "use client"
 
-const WHATSAPP_URL = "https://wa.me/573225213238"
+const WHATSAPP_URL = "https://wa.me/573181898143"
 
 export function WhatsappFloating() {
   return (

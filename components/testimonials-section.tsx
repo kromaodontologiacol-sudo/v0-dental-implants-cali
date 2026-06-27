@@ -2,7 +2,7 @@ import Image from "next/image"
 import { Star } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-const WHATSAPP_URL = "https://wa.me/573225213238"
+const WHATSAPP_URL = "https://wa.me/573181898143"
 
 const testimonials = [
   {

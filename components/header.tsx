@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import { Menu, X, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-const WHATSAPP_URL = "https://wa.me/573225213238"
+const WHATSAPP_URL = "https://wa.me/573181898143"
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
@@ -60,9 +60,9 @@ export function Header() {
         </nav>
 
         <div className="hidden items-center gap-3 lg:flex">
-          <a href="tel:+573225213238" className="flex items-center gap-1.5 text-sm font-medium text-foreground">
+          <a href="tel:+573181898143" className="flex items-center gap-1.5 text-sm font-medium text-foreground">
             <Phone className="h-4 w-4 text-primary" />
-            322 521 3238
+            318 189 8143
           </a>
           <Button asChild className="bg-primary text-primary-foreground hover:bg-primary/90">
             <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
@@ -95,9 +95,9 @@ export function Header() {
             ))}
           </nav>
           <div className="mt-3 flex flex-col gap-2">
-            <a href="tel:+573225213238" className="flex items-center justify-center gap-2 rounded-lg border border-border px-3 py-2.5 text-sm font-medium text-foreground">
+            <a href="tel:+573181898143" className="flex items-center justify-center gap-2 rounded-lg border border-border px-3 py-2.5 text-sm font-medium text-foreground">
               <Phone className="h-4 w-4 text-primary" />
-              322 521 3238
+              318 189 8143
             </a>
             <Button asChild className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
               <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
